@@ -16,6 +16,7 @@
 			"Enabled": true
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		},
 		{
 			"Name": "Bridge",
@@ -25,6 +26,8 @@
 				"Mac",
 				"Linux"
 			]
+=======
+>>>>>>> f253c7ba9dfb24b24a24f88be1d4a7016d4d97f7
 =======
 >>>>>>> f253c7ba9dfb24b24a24f88be1d4a7016d4d97f7
 =======
